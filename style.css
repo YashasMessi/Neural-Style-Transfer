@@ -1,0 +1,49 @@
+section.main.css-1v3fvcr.egzxvld3{
+    background-color: #3fb0ac;
+}
+section.css-po3vlj:focus {
+    outline: none;
+    box-shadow: rgb(0 0 0) 0px 0px 0px 1px;
+}
+
+span.css-10trblm.e16nr0p30{
+    color: black;
+}
+
+label.css-qrbaxs.effi0qh3
+{
+    font-size: 120%;
+    font-weight: bold;
+    color : #173e43;
+}
+
+button.css-1cpxqw2.edgvbvh9{
+   font-size: 100%;
+}
+button.css-1cpxqw2:hover {
+    border-color: rgb(0,0,0);
+    color: #173e43;
+}
+
+button.css-1cpxqw2:focus {
+    box-shadow: #173e43 0px 0px 0px 0.1rem;
+    outline: none;
+}
+.css-1cpxqw2:active {
+    color: black;
+    background-color: white;
+    border-color:black;
+}
+
+.css-1cpxqw2:focus:not(:active) {
+    border-color: rgb(0 0 0);
+    color: rgb(0 0 0);
+}
+img
+{
+    padding-left:20px;
+}
+div.css-1b0udgb.etr89bj0{
+    font-size: 120%;
+    color: black;
+}
